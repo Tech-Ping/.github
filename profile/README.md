@@ -47,10 +47,12 @@
 | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/user-attachments/assets/f923f179-4de7-441d-a3be-611363105927" width="200"/> | <img src="https://github.com/user-attachments/assets/774d7f8a-4964-4a47-a030-9c557caf57d2" width="200"/> | <img src="https://github.com/user-attachments/assets/094c14f7-f809-45cf-8517-67f32dd9e16d" width="200">
 
+> 프로젝트 시연은 [Demo video](https://youtu.be/gkk8TlkkJn0)에서 확인할 수 있습니다.
+
 ---
 
 ## Overview Diagram
-<img src="https://github.com/user-attachments/assets/18ee0ba8-af10-4067-8ce2-f9a78208d990" width="700" height="700"/>
+<img src="https://github.com/user-attachments/assets/18ee0ba8-af10-4067-8ce2-f9a78208d990"/>
 
 ### Main Data Flow Diagram
 ![image](https://github.com/user-attachments/assets/df6df28e-bb90-4068-9c9b-8449bd27efd7)
